@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>InternCrowd</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+        <nav class="nav2">
+            <div class="icon">
+                <h2 class="logo">Intern Crowd</h2>
+            </div>
+            <div class="Menu">
+                <a href="#">Home</a>
+                <a href="#">About us</a>
+                <a href="#">Internships</a>
+                <a href="#">Trainings</a>
+                <a href="#">Courses</a>
+                <a href="#">Events</a>
+                <a href="#">Contact us</a>
+                <a href="#">Sign up</a>
+                
+            </div>
+        </nav>
+        <div class='h-text'>
+            <h1>Welcome To Intern Crowd</h1>
+            <p>Explore and expand your skills</p>
+            <button class="btnn"><a href="#">Get Started</a></button>
+        </div>
+        <div class="form">
+            <h2>Login Here</h2>
+            <input type="email" name="email" placeholder="Enter username">
+            <input type="password" name="" placeholder="Enter Password">
+            <button class="btnn"><a href="#">Login</a></button>
+            <p class="liw">Log in with</p>
+
+                    <div class="icons">
+                        <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                        <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                    </div>
+
+        </div>
+        
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    </header>
+</body>
+</html>
